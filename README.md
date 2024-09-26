@@ -1,6 +1,6 @@
 ## Hi there 👋
                   
-
+Soy Ingeniero Eléctrico desde 2024 y estoy aquí para dejar constancia de los proyectos de Data Sciences que iré realizando.
 <!--
 **DDRM22/DDRM22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
