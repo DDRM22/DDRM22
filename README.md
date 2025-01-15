@@ -5,7 +5,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/ddrm98" target="blank"><img align="center" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="ddrm98" height="30" width="40" /></a>  
 <a href="https://www.kaggle.com/diegodrm" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="kaggle_diegodrm" height="30" width="40" /></a>
- <a href = "mailto: ddrm98@hotmail.com"><img align="center" src="[https://www.flaticon.com/free-icon/outlook_732072?term=hotmail+logo&page=1&position=9&origin=search&related_id=732072]" height="30" width="40" /></a>
 </p>
 </p>
 
@@ -23,21 +22,69 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently ...<br>
-✔ I’m currently learning about **Data Science**🥰<br>
-✔ I’m looking to ...<br>
+✔ I’m currently completing the master's degree in DS and Big Data <br>
+✔ I’m currently learning about **Data Science World**🥰<br>
+✔ I’m looking internships or work without previous experience <br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
  
+## My Skills Include
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
-<p align="left">
+<h4> Languages </h4>
 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
-  <hr>
-  <p align="center">
+<span>
  
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+
+<span>
+
+<h4> DataBases </h4>
+
+<span>
+
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+
+<span>
+ 
+<h4> FrameWorks & IDEs </h4>
+
+<span>
+
+<img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white">
+<img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+
+<span>
+
+<h4> ML/DL </h4>
+
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+
+<span>
+
+<h4> Office </h4>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">
+
+<span>
+
+## Check out my Social Media
+
+<a href= "https://www.gmail.com/ddrm2298/?hl=es">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href= "https://www.linkedin.com/in/ddrm98/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=DDRM22&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DDRM22)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DDRM22&theme=material-palenight)](https://github.com/DDRM22)
+</div>
