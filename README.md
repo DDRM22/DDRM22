@@ -10,7 +10,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Diego Del-Río Muñoz a <b>final year</b> undergraduate from <a href="https://uco.es/"> <b>University Of Córdoba</b>, Spain </a>. <br>
+    Hello, I am Diego Del-Río Muñoz graduated in  <a href="https://uco.es/"> <b>University Of Córdoba</b>, Spain </a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b> Electrical Engineer ⚡,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data. 
   </em> 
